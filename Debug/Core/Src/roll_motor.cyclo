@@ -1,0 +1,10 @@
+../Core/Src/roll_motor.c:28:23:roll_set_direction	3
+../Core/Src/roll_motor.c:55:16:roll_init_motor	6
+../Core/Src/roll_motor.c:100:16:roll_stop	1
+../Core/Src/roll_motor.c:104:16:roll_set_duty_cycle	3
+../Core/Src/roll_motor.c:120:16:roll_read_pot_safe	8
+../Core/Src/roll_motor.c:154:16:roll_get_current_degree	5
+../Core/Src/roll_motor.c:181:16:roll_get_state	1
+../Core/Src/roll_motor.c:185:6:roll_enter_recovery	1
+../Core/Src/roll_motor.c:193:6:roll_enter_emergency	1
+../Core/Src/roll_motor.c:200:16:roll_move_to	22

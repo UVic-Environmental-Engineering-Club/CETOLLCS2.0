@@ -111,8 +111,6 @@ void Error_Handler(void);
 #define HECTO_DSR_GPIO_Port GPIOB
 #define HECTO_RI_Pin GPIO_PIN_8
 #define HECTO_RI_GPIO_Port GPIOD
-#define Pitch_SW_Pin GPIO_PIN_10
-#define Pitch_SW_GPIO_Port GPIOD
 #define GPIO_Spare_PD12_Pin GPIO_PIN_12
 #define GPIO_Spare_PD12_GPIO_Port GPIOD
 #define GPIO_Spare_PD13_Pin GPIO_PIN_13
@@ -133,6 +131,8 @@ void Error_Handler(void);
 #define Draw_Wire_Set_Zero_GPIO_Port GPIOD
 #define CAN_STBY_Pin GPIO_PIN_3
 #define CAN_STBY_GPIO_Port GPIOD
+#define Pitch_SW_Pin GPIO_PIN_6
+#define Pitch_SW_GPIO_Port GPIOD
 #define Pump_PWM_Pin GPIO_PIN_5
 #define Pump_PWM_GPIO_Port GPIOB
 #define Pump_DIR_Pin GPIO_PIN_6
